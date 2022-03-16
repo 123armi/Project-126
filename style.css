@@ -1,0 +1,27 @@
+.heading
+{
+    padding: 5px;
+    border: 3px double black;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.song
+{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+
+canvas
+{
+    border: 5px ridge gray;
+    margin: 10px;
+}
+
+.note
+{
+    color: black;
+    font-size: 17px;
+}
